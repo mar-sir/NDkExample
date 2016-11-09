@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Volumes/huang/NDKExample/NDKExample/hellojni/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Volumes/huang/NDKExample/NDKExample/hellojni/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/Volumes/huang/studyfromGitHub/NDKExample/hellojni/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/Volumes/huang/studyfromGitHub/NDKExample/hellojni/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_edit_text_material.xml"
     },
@@ -8,7 +12,15 @@
         "source": "/Volumes/huang/studyfromGitHub/NDKExample/hellojni/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/Volumes/huang/NDKExample/NDKExample/hellojni/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Volumes/huang/NDKExample/NDKExample/hellojni/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Volumes/huang/studyfromGitHub/NDKExample/hellojni/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Volumes/huang/studyfromGitHub/NDKExample/hellojni/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/huang/NDKExample/NDKExample/hellojni/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Volumes/huang/NDKExample/NDKExample/hellojni/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]
