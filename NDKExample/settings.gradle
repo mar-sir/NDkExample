@@ -1,0 +1,2 @@
+include ':app', ':examplefirst'
+include ':hellojni'
